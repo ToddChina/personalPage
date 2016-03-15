@@ -34,3 +34,4 @@
 + 刘国家 liuguojia.github.io [链接](https://liuguojia.github.io)
 + 陈阳波 yuangbochen.github.io [链接](https://yuangbochen.github.io)
 + 陈姣月 chenjiaoyue.github.io [链接](https://chenjiaoyue.github.io)
++ 李建丽 smile1225.github.io [链接](https://mile1225.github.io)
